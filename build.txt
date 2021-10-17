@@ -1,0 +1,3 @@
+displayName = Bow is Gun, Gun is Bow
+author = Lasthue
+version = 0.1.1

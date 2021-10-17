@@ -1,0 +1,11 @@
+Bow is Gun , Gun is Bow
+
+as the title says. this mod turns bow into gun and gun into bow
+
+Changelog :
+
+v.0.2
+- added icon
+
+v.0.1
+- initial release
